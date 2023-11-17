@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color:#44c396;
+    font-style: italic;
+    font-family:cursive;
+    background-color:#33343d;
+}
+div{
+    display: inline-block;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer{
+    font-size: xx-small;
+    color:#17171c;
+    font-weight:800;
+}
+.img{
+    width:150px;
+    height:150px;
+}
+img{
+    border-radius: 35px;
+    margin-right: 10px;
+}
